@@ -6,4 +6,4 @@ Projet jQuery sur Udemy
 
 Résultat final :
 
-<img src="https://gyazo.com/58798cba5514188775b3abfc806217cc" alt="capture du rendu final" />
+<img src="rendu.gif" alt="capture du rendu final" />
